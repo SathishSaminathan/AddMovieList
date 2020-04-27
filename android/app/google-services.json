@@ -1,0 +1,98 @@
+{
+  "project_info": {
+    "project_number": "523492720261",
+    "firebase_url": "https://moviesapp-b23f9.firebaseio.com",
+    "project_id": "moviesapp-b23f9",
+    "storage_bucket": "moviesapp-b23f9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:523492720261:android:993e26e70a0ddfd01af3ec",
+        "android_client_info": {
+          "package_name": "com.addmovietomovieportal"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "523492720261-dntvpnrj3h1m85c0mp3ktrue341liadi.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyClyEJg8Nebe2bANWkAo_6i0KhiqVAXQCE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "523492720261-dntvpnrj3h1m85c0mp3ktrue341liadi.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:523492720261:android:451d112e72eabb6c",
+        "android_client_info": {
+          "package_name": "com.dubbedmovie"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "523492720261-dntvpnrj3h1m85c0mp3ktrue341liadi.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyClyEJg8Nebe2bANWkAo_6i0KhiqVAXQCE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "523492720261-dntvpnrj3h1m85c0mp3ktrue341liadi.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:523492720261:android:91da93792d27f2c21af3ec",
+        "android_client_info": {
+          "package_name": "com.movieportal"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "523492720261-dntvpnrj3h1m85c0mp3ktrue341liadi.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyClyEJg8Nebe2bANWkAo_6i0KhiqVAXQCE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "523492720261-dntvpnrj3h1m85c0mp3ktrue341liadi.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
