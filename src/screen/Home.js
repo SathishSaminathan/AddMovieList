@@ -75,7 +75,7 @@ export default class Home extends Component {
   _onDismissSnackBar = () => this.setState({visible: false});
 
   handleSubmit = ({Name, Image, Category, Link}) => {
-    ref.doc(Name).set({Name, Image, Category, Link});
+    ref.doc(Name).set({Name, Image, Category, Link, Views: 0});
     this.reset();
   };
 
